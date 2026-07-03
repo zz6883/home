@@ -1,0 +1,99 @@
+﻿.wordWrap {
+	word-wrap: break-word;      /* IE 5.5-7 */
+  white-space: -moz-pre-wrap; /* Firefox 1.0-2.0 */
+  white-space: pre-wrap;      /* current browsers */
+}
+
+/*
+div {
+	width: 900px;
+  margin-bottom: 16px;
+}
+*/
+
+div.content {
+	max-width: 1200px;
+	margin: 20px;
+}
+
+photo	{
+	position: relative;
+	top: 	20px;
+	left: 30px;
+}
+
+
+photo_logo	{
+	position: absolute;
+	top: 	30px;
+	left: 660px;
+}
+
+news {
+	position: relative;
+	left: 30px;
+	
+	font-family: verdana;
+  font-size: 15px;
+}
+
+intro {
+	position: absolute;
+  top: 40px;
+  left: 260px;
+
+	font-family: verdana;
+  color: black;
+  font-size: 15px;
+}
+
+
+aboutMe	{
+	position: relative;
+	top: 50px;
+	left:	30px;
+}
+
+research {
+	position: relative;	
+	top: 50px;
+	left: 30px;		
+}
+
+student {
+	position: relative;	
+	top: 50px;
+	left: 30px;		
+}
+
+
+software {
+	position: relative;	
+	top: 50px;
+	left: 30px;		
+}
+
+publication {
+	position: relative;	
+	top: 50px;
+	left: 30px;		
+}
+
+
+service {
+	position: relative;	
+	top: 50px;
+	left: 30px;		
+}
+
+div.iptracker {
+	max-width: 200px;
+	margin: 20px;
+}
+
+iptracker {
+	position: relative;	
+	top: 50px;
+	left: 50px;		
+}
+
